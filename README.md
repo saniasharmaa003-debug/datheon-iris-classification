@@ -102,7 +102,13 @@ Both models were evaluated using Accuracy, Weighted Precision, Weighted Recall a
 The Jupyter Notebook includes:
 
 - Iris Species Distribution
+  
+  
 - Pairplot for Feature Relationships
+  This pairplot illustrates the relationships between
+  sepal length, sepal width, petal length, and petal width
+  across the three Iris species.
+  ![Iris Pairplot](images/iris_pairplot.png)
 - Logistic Regression Confusion Matrix
 - Decision Tree Confusion Matrix
 - Logistic Regression Decision Boundary
