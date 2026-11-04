@@ -108,7 +108,7 @@ The Jupyter Notebook includes:
   This pairplot illustrates the relationships between
   sepal length, sepal width, petal length, and petal width
   across the three Iris species.
-  ![Iris Pairplot](images/iris_pairplot.png)
+  ![Iris Pairplot](images/irispairplot.png)
 - Logistic Regression Confusion Matrix
 - Decision Tree Confusion Matrix
 - Logistic Regression Decision Boundary
