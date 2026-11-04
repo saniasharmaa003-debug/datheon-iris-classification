@@ -101,33 +101,34 @@ Both models were evaluated using Accuracy, Weighted Precision, Weighted Recall a
 
 The Jupyter Notebook includes:
 
-- Iris Species Distribution
+1. Iris Species Distribution
   This visualization shows the distribution of the three Iris species —
   Setosa,Versicolor, and Virginica — in the dataset. It helps understand the class
   balance before training the classification models.
-  ![distribution](images/distribution.png)
-- Pairplot for Feature Relationships
+  ![Iris Species Distribution](images/distribution.png)
+  
+2. Iris Pairplot
   This pairplot illustrates the relationships between
   sepal length, sepal width, petal length, and petal width
   across the three Iris species.
   ![Iris Pairplot](images/irispairplot.png)
   
-- Logistic Regression Confusion Matrix
+- Logistic Regression - Confusion Matrix
   The model correctly classified 28 out of 30 test samples,
   achieving an accuracy of 93.33%.
   ![Logistic Regression Confusion Matrix](images/LRCM.png)
   
-- Decision Tree Confusion Matrix
+- Decision Tree - Confusion Matrix
   The Decision Tree model correctly classified 28 out of 30 test samples,
   achieving an accuracy of 93.33%.
   ![Decision Tree Confusion Matrix](images/DTCM.png)
   
-- Logistic Regression Decision Boundary
+- Logistic Regression - Decision Boundary
   This visualization shows how the Logistic Regression model separates the
   three Iris species using selected features.
   ![Logistic Regression Decision Boundary](images/LRDB.png)
   
-- Decision Tree Decision Boundary
+- Decision Tree - Decision Boundary
   This visualization demonstrates how the Decision Tree classifier creates
   decision regions to distinguish between the three Iris species.
   ![Decision Tree Decision Boundary](images/DTDB.png)
