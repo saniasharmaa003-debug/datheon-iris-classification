@@ -109,7 +109,11 @@ The Jupyter Notebook includes:
   sepal length, sepal width, petal length, and petal width
   across the three Iris species.
   ![Iris Pairplot](images/irispairplot.png)
+  
 - Logistic Regression Confusion Matrix
+  The model correctly classified 28 out of 30 test samples,
+  achieving an accuracy of 93.33%.
+  ![Logistic Regression Confusion Matrix](images/LRCM.png)
 - Decision Tree Confusion Matrix
 - Logistic Regression Decision Boundary
 - Decision Tree Decision Boundary
